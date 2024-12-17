@@ -1,0 +1,62 @@
+/* Styling untuk card login */
+.login-card {
+    border-radius: 10px;
+    overflow: hidden;
+    max-width: 900px;
+    width: 100%;
+  }
+  
+  /* Styling untuk kolom ajakan daftar */
+  .bg-success {
+    background-color: #28a745 !important;
+    color: white !important;
+  }
+  
+  /* Menambahkan jarak antara ikon sosial */
+  .social-icons .btn {
+    font-size: 20px;
+    padding: 10px;
+  }
+
+  /* Card Styling */
+.login-card {
+    background-color: #f7f8fa;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Input field styling */
+  .input-field {
+    border-radius: 12px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    border: 2px solid #ced4da;
+    transition: border-color 0.3s ease;
+  }
+  
+  .input-field:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  
+  /* Button Styling */
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    border-radius: 12px;
+    font-weight: 600;
+    padding: 12px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  /* Title Styling */
+  h3 {
+    font-weight: 700;
+    font-size: 1.5rem;
+  }
+  
+  
+  
