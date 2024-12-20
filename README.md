@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+Sistem Informasi Pengolahan Data Bidan Neng
+Aplikasi ini dirancang untuk membantu bidan dalam mengelola data pasien secara efisien, meningkatkan kinerja, dan memberikan dampak positif dalam pelayanan kesehatan. Dengan teknologi berbasis web, aplikasi ini memungkinkan pengolahan data yang cepat, akurat, dan mudah diakses.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Getting Started
+This project was bootstrapped with Create React App.
 
-## Available Scripts
+Prerequisites
+Pastikan Anda telah menginstal:
 
+Node.js
+npm
+Installation
+Clone repository:
+
+bash
+Copy code
+git clone [https://github.com/username/repository-name.git ](https://github.com/pevnostds/frontend.git) 
+cd repository-name  
+Install dependencies:
+
+bash
+Copy code
+npm install  
+Start the application:
+
+bash
+Copy code
+npm start  
+Buka http://localhost:3000 di browser Anda untuk melihat aplikasi.
+
+Available Scripts
 In the project directory, you can run:
 
-### `npm start`
+npm start
+Menjalankan aplikasi dalam mode pengembangan. Halaman akan otomatis memuat ulang jika terjadi perubahan kode.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+npm test
+Meluncurkan runner pengujian dalam mode interaktif.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+npm run build
+Membangun aplikasi untuk produksi ke dalam folder build. Aplikasi dioptimalkan untuk performa terbaik.
 
-### `npm test`
+npm run build fails to minify
+Jika build gagal, kunjungi panduan ini: troubleshooting build errors.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Features
+Pengelolaan data pasien secara efisien
+Akses data real-time
+Laporan yang mudah dibuat dan diakses
+Deployment
+Untuk mempelajari cara menerapkan aplikasi ini, kunjungi: deployment documentation.
