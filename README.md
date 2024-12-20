@@ -1,22 +1,24 @@
-Sistem Informasi Pengolahan Data Bidan Neng
+# Sistem Informasi Pengolahan Data Bidan Neng
 Aplikasi ini dirancang untuk membantu bidan dalam mengelola data pasien secara efisien, meningkatkan kinerja, dan memberikan dampak positif dalam pelayanan kesehatan. Dengan teknologi berbasis web, aplikasi ini memungkinkan pengolahan data yang cepat, akurat, dan mudah diakses.
 
-Getting Started
+# Getting Started
 This project was bootstrapped with Create React App.
 
-Prerequisites
+# Prerequisites
 Pastikan Anda telah menginstal:
 
 Node.js
 npm
-Installation
+
+# Installation
 Clone repository:
 
 bash
 Copy code
-git clone [https://github.com/username/repository-name.git ](https://github.com/pevnostds/frontend.git) 
+git clone https://github.com/pevnostds/frontend.git
 cd repository-name  
-Install dependencies:
+
+# Install dependencies:
 
 bash
 Copy code
@@ -28,7 +30,7 @@ Copy code
 npm start  
 Buka http://localhost:3000 di browser Anda untuk melihat aplikasi.
 
-Available Scripts
+# Available Scripts
 In the project directory, you can run:
 
 npm start
@@ -43,7 +45,7 @@ Membangun aplikasi untuk produksi ke dalam folder build. Aplikasi dioptimalkan u
 npm run build fails to minify
 Jika build gagal, kunjungi panduan ini: troubleshooting build errors.
 
-Features
+# Features
 Pengelolaan data pasien secara efisien
 Akses data real-time
 Laporan yang mudah dibuat dan diakses
